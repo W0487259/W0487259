@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @W0487259
-- 👀 I’m interested in Java & Photography
+- 👀 I’m interested in Programming & Photography
 - 🌱 I’m currently studying IT Programming at NSCC.
-- 💞️ I’m looking to collaborate on something idk yet
+- 💞️ My favourite programming language is Java, but I also enjoy working with C++ and R.
 - 📫 How to reach me: Email or MS Teams
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: :D
