@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @W0487259
-- 👀 I’m interested in Programming & Photography
+- 👀 I’m interested in Programming, Music, & Photography
 - 🌱 I’m currently studying IT Programming at NSCC.
 - 💞️ My favourite programming languages are Java, R, and C++
 - 📫 How to reach me: Email or MS Teams
